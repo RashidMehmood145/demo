@@ -6,7 +6,7 @@ import { Counter } from './features/counter/Counter';
 function App() {
   return (
     <div className="App">
-      <h1>hellooo</h1>
+      <h1>hellooooo</h1>
      <Counter /> 
     </div>
   );
